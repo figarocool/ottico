@@ -1182,7 +1182,7 @@ Begin Report InfoClienteMisurazioni
          LineSpacing     =   0.0
          LockedInPosition=   False
          Multiline       =   False
-         Text            =   "Via Annunziata N°9 Tel. 667060"
+         Text            =   "[Indirizzo Azienda] Tel. [Telefono]"
          TextAlign       =   0
          TextColor       =   &c00000000
          TextFont        =   "Helvetica"
@@ -1204,7 +1204,7 @@ Begin Report InfoClienteMisurazioni
          LineSpacing     =   0.0
          LockedInPosition=   False
          Multiline       =   False
-         Text            =   "72026 S.Pancrazio Sal. (BR)"
+         Text            =   "[CAP] [Città] ([Provincia])"
          TextAlign       =   0
          TextColor       =   &c00000000
          TextFont        =   "Helvetica"
@@ -1226,7 +1226,7 @@ Begin Report InfoClienteMisurazioni
          LineSpacing     =   0.0
          LockedInPosition=   False
          Multiline       =   False
-         Text            =   "Ottica Moderna De Gioia F."
+         Text            =   "[Nome Azienda]"
          TextAlign       =   0
          TextColor       =   &c00000000
          TextFont        =   "Helvetica"

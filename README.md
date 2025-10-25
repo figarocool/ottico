@@ -5,9 +5,9 @@
 **Ottico** è un software di gestione completo per ottiche, sviluppato in Xojo (RealBasic) per Windows. Il sistema gestisce clienti, fornitori, misurazioni oculistiche, lenti corneali, montature e fornisce funzionalità di stampa e reportistica avanzate.
 
 **Versione**: 1.3  
-**Sviluppatore**: Ottica Moderna De Gioia F.  
-**Indirizzo**: Via Annunziata N°9, 72026 S.Pancrazio Sal. (BR)  
-**Telefono**: 667060
+**Sviluppatore**: [Nome Sviluppatore]  
+**Indirizzo**: [Indirizzo Sviluppatore]  
+**Telefono**: [Telefono Sviluppatore]
 
 ## Caratteristiche Principali
 
@@ -341,7 +341,8 @@ End Class
 
 ### Personalizzazione
 - **Password**: Configurare password sicura in `run.ini`
-- **Dati aziendali**: Aggiornare nei report
+- **Dati aziendali**: Seguire le istruzioni in `COMPANY_CONFIG.md`
+- **Report**: Personalizzare tutti i file di report con dati reali
 - **Colori**: Modificare `ColoreLancetta` nel misuratore
 
 ## Utilizzo
@@ -402,9 +403,9 @@ copy database\*.* backup\
 ## Supporto Tecnico
 
 ### Contatti
-- **Azienda**: Ottica Moderna De Gioia F.
-- **Indirizzo**: Via Annunziata N°9, 72026 S.Pancrazio Sal. (BR)
-- **Telefono**: 667060
+- **Azienda**: [Nome Azienda]
+- **Indirizzo**: [Indirizzo Azienda]
+- **Telefono**: [Telefono Azienda]
 
 ### Risoluzione Problemi Comuni
 
@@ -425,7 +426,7 @@ copy database\*.* backup\
 
 ## Licenza e Copyright
 
-**Software proprietario** - Ottica Moderna De Gioia F.  
+**Software proprietario** - [Nome Sviluppatore]  
 **Versione**: 1.3  
 **Anno**: 2022
 
