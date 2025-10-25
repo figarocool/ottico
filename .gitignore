@@ -1,0 +1,48 @@
+# Xojo Project Files
+*.xojo_binary_project
+*.xojo_xml_project
+*.rbp
+*.rbp~
+
+# Build Output
+Builds - */
+Builds*/
+*.exe
+*.dll
+*.dylib
+*.so
+
+# Xojo IDE Files
+*.xojo_ide_state
+*.xojo_ide_state~
+
+# Database Files (if sensitive)
+# database/
+# *.db
+# *.sqlite
+
+# Configuration Files (if sensitive)
+# run.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log Files
+*.log
+
+# Backup Files
+*.bak
+*.backup
