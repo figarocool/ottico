@@ -76,7 +76,8 @@
 ## 📞 Supporto
 
 Per problemi di sicurezza o configurazione:
-- **Email**: [Contatto supporto]
+- **Email**: info@8byte.it
+- **Supporto**: info@8byte.it
 - **Issues**: [GitHub Issues](https://github.com/figarocool/ottico/issues)
 
 ---

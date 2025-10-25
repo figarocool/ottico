@@ -5,9 +5,8 @@
 **Ottico** è un software di gestione completo per ottiche, sviluppato in Xojo (RealBasic) per Windows. Il sistema gestisce clienti, fornitori, misurazioni oculistiche, lenti corneali, montature e fornisce funzionalità di stampa e reportistica avanzate.
 
 **Versione**: 1.3  
-**Sviluppatore**: [Nome Sviluppatore]  
-**Indirizzo**: [Indirizzo Sviluppatore]  
-**Telefono**: [Telefono Sviluppatore]
+**Sviluppatore**: 8byte  
+**Contatto**: info@8byte.it
 
 ## Caratteristiche Principali
 
@@ -403,9 +402,9 @@ copy database\*.* backup\
 ## Supporto Tecnico
 
 ### Contatti
-- **Azienda**: [Nome Azienda]
-- **Indirizzo**: [Indirizzo Azienda]
-- **Telefono**: [Telefono Azienda]
+- **Sviluppatore**: 8byte
+- **Email**: info@8byte.it
+- **Supporto**: info@8byte.it
 
 ### Risoluzione Problemi Comuni
 
@@ -426,12 +425,21 @@ copy database\*.* backup\
 
 ## Licenza e Copyright
 
-**Software proprietario** - [Nome Sviluppatore]  
+**Software proprietario** - 8byte  
 **Versione**: 1.3  
 **Anno**: 2022
 
-Tutti i diritti riservati. Il software è destinato all'uso interno dell'ottica e non può essere distribuito o modificato senza autorizzazione.
+## ⚠️ Licenza e Utilizzo
+
+**IMPORTANTE**: Questo software è di proprietà di **8byte** e non può essere utilizzato, distribuito o venduto senza autorizzazione esplicita.
+
+### Contatti per Autorizzazione
+- **Email**: info@8byte.it
+- **Supporto**: info@8byte.it
+- **Licenza**: Contattare 8byte per informazioni sui termini di utilizzo
+
+Tutti i diritti riservati. Il software è destinato all'uso autorizzato e non può essere distribuito o modificato senza il consenso scritto di 8byte.
 
 ---
 
-*Documentazione tecnica generata automaticamente dal codice sorgente Xojo*
+*Progetto sviluppato da 8byte - Per informazioni e supporto contattare info@8byte.it*

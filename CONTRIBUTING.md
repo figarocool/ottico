@@ -80,7 +80,7 @@ By contributing, you agree that your contributions will be licensed under the sa
 ## Contact
 
 For questions about contributing, please contact:
-- Email: [Contact information]
+- Email: info@8byte.it
 - Issues: Use GitHub Issues for technical discussions
 
 Thank you for helping improve Ottico!

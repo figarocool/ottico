@@ -1,5 +1,15 @@
 # Configurazione Dati Aziendali
 
+## ⚠️ IMPORTANTE - Licenza 8byte
+
+**Questo software è di proprietà di 8byte e richiede autorizzazione per l'utilizzo.**
+
+### Contatti per Autorizzazione
+- **Email**: info@8byte.it
+- **Supporto**: info@8byte.it
+
+---
+
 ## Personalizzazione Report e Documentazione
 
 Prima di utilizzare il software in produzione, è necessario personalizzare i dati aziendali nei seguenti file:
