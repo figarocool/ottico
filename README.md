@@ -185,8 +185,14 @@ ottico/
 #### Autenticazione (`WinLoginPass`)
 - **Password MD5**: Hash sicuro della password
 - **File di configurazione**: `run.ini` per memorizzazione
-- **Password predefinita**: "superottico"
+- **Password**: Configurabile tramite file di configurazione
 - **Validazione**: Controllo obbligatorio all'avvio
+
+#### Configurazione Sicurezza
+- **Password forte**: Utilizzare password complesse (minimo 8 caratteri)
+- **Backup configurazione**: Salvare copia sicura di `run.ini`
+- **Accesso limitato**: Limitare accesso ai file di configurazione
+- **Aggiornamenti**: Mantenere software aggiornato per sicurezza
 
 #### Configurazione (`Module1`)
 - **Funzioni INI**: `Readini()` e `WriteFileini()`
@@ -309,13 +315,22 @@ End Class
 - **Librerie Windows**: User32.dll, GDI32.dll
 - **File di configurazione**: run.ini
 
+## ⚠️ Avviso di Sicurezza
+
+**IMPORTANTE**: Prima di utilizzare il software in produzione:
+
+1. **Cambiare password predefinita**: Il software deve essere configurato con una password sicura
+2. **Backup database**: Salvare sempre una copia del database
+3. **Accesso limitato**: Limitare l'accesso ai file di configurazione
+4. **Aggiornamenti**: Mantenere il software aggiornato
+
 ## Installazione e Configurazione
 
 ### Prima Installazione
 1. **Estrarre** i file in una cartella
 2. **Verificare** presenza file `database` e `run.ini`
 3. **Avviare** `Ottico.exe`
-4. **Inserire password**: "superottico" (predefinita)
+4. **Configurare password**: Impostare password sicura nel file di configurazione
 
 ### Configurazione Database
 - **Percorso database**: Cartella `database/`
@@ -324,7 +339,7 @@ End Class
 - **Backup**: Copiare cartella `database/`
 
 ### Personalizzazione
-- **Password**: Modificare in `run.ini`
+- **Password**: Configurare password sicura in `run.ini`
 - **Dati aziendali**: Aggiornare nei report
 - **Colori**: Modificare `ColoreLancetta` nel misuratore
 
@@ -405,7 +420,7 @@ copy database\*.* backup\
 #### Errori di Login
 - Verificare file `run.ini`
 - Controllare hash password
-- Ripristinare configurazione predefinita
+- Contattare amministratore per reset password
 
 ## Licenza e Copyright
 
