@@ -80,7 +80,11 @@ End
 		  end if
 		  
 		  dim Lettura as string=Readini("password","key",localdir.AbsolutePath+"run.ini")
-		  if  EncodeHex(md5("superottico")) <>Lettura  then
+		  if Len(Lettura) = 0 then
+		    ' Prima configurazione - richiedi setup password
+		    WinShowPassword.Show
+		  else
+		    ' Verifica password configurata
 		    WinLoginPass.Show
 		  end if
 		End Sub

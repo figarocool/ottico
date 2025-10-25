@@ -401,10 +401,9 @@ End
 		    if DebugBuild = True then
 		      localdir =  localdir.Child("..")
 		    end if
-		     dim tmpstring as string
-		     tmpstring = EncodeHex(md5("superottico"))
-		    call WriteFileini("password","key="+tmpstring,localdir.absolutepath+"run.ini")
-		    MsgBox "Password Eliminata."
+		     ' Reset password - rimuove configurazione esistente
+		     call WriteFileini("password","key=",localdir.absolutepath+"run.ini")
+		    MsgBox "Password resettata. Riavvia l'applicazione per configurare una nuova password."
 		    self.Close
 		  end if
 		End Sub

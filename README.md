@@ -328,9 +328,10 @@ End Class
 
 ### Prima Installazione
 1. **Estrarre** i file in una cartella
-2. **Verificare** presenza file `database` e `run.ini`
-3. **Avviare** `Ottico.exe`
-4. **Configurare password**: Impostare password sicura nel file di configurazione
+2. **Verificare** presenza file `database` e `run.ini.template`
+3. **Configurare sicurezza**: Seguire le istruzioni in `SECURITY_SETUP.md`
+4. **Avviare** `Ottico.exe` - verrà richiesta configurazione password
+5. **Configurare password sicura**: Minimo 8 caratteri, maiuscole, minuscole, numeri
 
 ### Configurazione Database
 - **Percorso database**: Cartella `database/`

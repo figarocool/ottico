@@ -22,7 +22,9 @@ Builds*/
 # *.sqlite
 
 # Configuration Files (if sensitive)
-# run.ini
+run.ini
+*.ini
+!run.ini.template
 
 # Temporary Files
 *.tmp
